@@ -15,7 +15,7 @@ import cors from 'cors'
  
  
  const corsPolicy = {
-    origin:"http://localhost:5173",
+    origin:"https://exploreai-code-reviwer-frontend-toz4.onrender.com",
     credentials:true,
  }
  
