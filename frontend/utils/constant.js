@@ -1,1 +1,1 @@
-export const GENARATIVE_AI = `http://localhost:2000/api/v1/Explore/get-response`
+export const GENARATIVE_AI = `https://exploreai-code-reviwer.onrender.com`
