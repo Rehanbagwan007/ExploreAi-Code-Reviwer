@@ -1,6 +1,6 @@
 import React from 'react'
-import { Input } from './input'
-import { Output } from './output'
+import { Input } from './Input'
+import { Output } from './Output'
 import { Navbar } from './Navbar'
 
 export const Home = () => {
