@@ -4,7 +4,7 @@ export const aiResponse =async (req,res)=>{
 
     try{
     const code = req.body.code
-    console.log(code);
+   
     
    
 
