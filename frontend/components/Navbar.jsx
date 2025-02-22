@@ -17,7 +17,7 @@ export const Navbar = () => {
  const submitHandler =  async ()=>{
 
 try{
-  const res = await axios.post(`${GENARATIVE_AI}`, {code:code},{
+  const res = await axios.post(`${GENARATIVE_AI}/api/v1/Explore/get-response`, {code:code},{
     headers:{
       'Content-Type':"application/json"
     },
