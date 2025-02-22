@@ -1,0 +1,1 @@
+export const GENARATIVE_AI = `http://localhost:2000/api/v1/Explore/get-response`
